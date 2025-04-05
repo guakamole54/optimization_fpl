@@ -1,0 +1,10 @@
+# Dependencies
+pandas
+numpy
+matplotlib
+scikit-learn
+deap
+tqdm
+pulp
+tensorflow
+xgboost
